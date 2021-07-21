@@ -1,4 +1,4 @@
-The tasks in this polder are exactly the same as <a href="https://github.com/Sieye-R/Machine_Learning/blob/main/Scikit_Learn/Very_Basic/Polynomial%20Regression.ipynb">Polynomial Regression.ipynb</a>.
+The tasks in this folder are exactly the same as <a href="https://github.com/Sieye-R/Machine_Learning/blob/main/Scikit_Learn/Very_Basic/Polynomial%20Regression.ipynb">Polynomial Regression.ipynb</a>.
 
 1. How to find a formula for the polynomial regression for n-th degree
 2. How to plot the polynomial regression for n-th degree
